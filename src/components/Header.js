@@ -4,7 +4,6 @@ import { FaShopify } from "react-icons/fa";
 
 const Header = () => {
 
-
   return (
     <nav className='main-header__container'>
       <Link to='/'>

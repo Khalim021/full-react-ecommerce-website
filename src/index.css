@@ -4,6 +4,7 @@
 
 body {
   margin: 0px;
+  background-color: rgb(193, 216, 208);
 }
 
 /* navbar styles */
@@ -110,6 +111,13 @@ a:-webkit-any-link {
   background-color: #ff9900;
   cursor: pointer;
 }
+
+
+
+
+
+
+
 
 
 

@@ -1,11 +1,19 @@
 import React from 'react'
 import BannerSlider from '../components/BannerSlider'
 import styled from 'styled-components';
+import ShopItems from '../components/ShopItems';
+import CompusItems from '../components/CompusItems';
+import BlogItems from '../components/BlogItems';
+import Banner from '../components/Banner';
 
 const Home = () => {
   return (
     <Container>
       <BannerSlider />
+      <ShopItems />
+      <CompusItems />
+      <Banner />
+      <BlogItems />
     </Container>
   )
 }
